@@ -1,10 +1,5 @@
-# Quant_Finance
-
-Reference implementations of the portfolio construction and performance framework deployed at **Croatia Insurance Voluntary Pension Fund** — multi-mandate family of 7 funds, €150M AUM, HANFA-regulated (Lead PM 2020–2023).
-
-Cumulative annualized returns positive across full tenure; flagship aggressive fund 7%+ vs 1-2% benchmark in normal market years; -10.47% in 2022 vs -15 to -25% broader equity.
-
-This repo contains representative notebooks. The production stack additionally includes Cox-Ingersoll-Ross rates modeling and full VaR-based risk budgeting infrastructure not published here.
+Quant Finance
+Reference implementations of portfolio construction and performance methodology applied during my tenure as Portfolio Manager at a HANFA-regulated voluntary pension fund (2020–2023).
 
 ---
 

@@ -1,8 +1,14 @@
-# Quant Finance 
+# Quant_Finance
 
-In this repository, we will try to go through different portfolio construction techniques, performance analysis, and backtesting.
+Reference implementations of the portfolio construction and performance framework deployed at **Croatia Insurance Voluntary Pension Fund** — multi-mandate family of 7 funds, €150M AUM, HANFA-regulated (Lead PM 2020–2023).
 
-## FILE: Portfolio Construction
+Cumulative annualized returns positive across full tenure; flagship aggressive fund 7%+ vs 1-2% benchmark in normal market years; -10.47% in 2022 vs -15 to -25% broader equity.
+
+This repo contains representative notebooks. The production stack additionally includes Cox-Ingersoll-Ross rates modeling and full VaR-based risk budgeting infrastructure not published here.
+
+---
+
+## Portfolio Construction
 
 The notebook file consists of two main ideas: 1) Projection of Expected Returns(and Covariances) and 2) Constructing portfolios using ER and COV. The key concept of the file is based on stochastic modeling. Stochastic modeling is a form of financial model that is used to help make investment decisions.
 This type of modeling forecasts the probability of various outcomes under different conditions, using random variables. Stochastic modeling is inherently random, and uncertain factors are built into the model.

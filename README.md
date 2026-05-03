@@ -1,4 +1,4 @@
-Quant Finance
+## Quant Finance
 Reference implementations of portfolio construction and performance methodology applied during my tenure as Portfolio Manager at a HANFA-regulated voluntary pension fund (2020–2023).
 
 ---
